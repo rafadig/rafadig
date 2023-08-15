@@ -1,5 +1,5 @@
 # 💫 About Me:
-Rafael Silva<br>Estudante de Front end
+Rafael Silva<br>Estudante de Front end<br> Aqui para compartilhar conquistas e tropeços. <br> Designer Gráfico
 
 
 ## 🌐 Socials:
